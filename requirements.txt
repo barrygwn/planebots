@@ -1,0 +1,23 @@
+Cython
+numpy>=1.13.0
+setuptools>=28.8.0
+pip>=9.0.1
+#matplotlib==2.0.2
+pyserial>=3.3
+websockets
+opencv-contrib-python
+#git+https://github.com/ncsuarc/ids.git#egg
+nose
+#pygame
+#evdev
+inputs
+#win32gui
+teamcity-messages
+cvxpy
+PyQt5
+#The Ueye library must be installed for the python bindings to work. Please install them through https://en.ids-imaging.com/download-ueye-lin64.html
+pyueye
+matplotlib
+scikit-fmm
+filterpy
+tikzplotlib
